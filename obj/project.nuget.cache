@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oUWeDcyzDLQ=",
+  "dgSpecHash": "iMaUGrHCgfQ=",
   "success": true,
-  "projectFilePath": "E:\\FFM\\WebApi\\WebApi.csproj",
+  "projectFilePath": "E:\\FFM\\Dotnetcore\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
